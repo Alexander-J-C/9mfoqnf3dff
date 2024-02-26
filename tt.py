@@ -1,5 +1,5 @@
-import tkinter as tk
-from tkinter import messagebox
+import tk
+from tk import messagebox
 
 # Create the main application window
 root = tk.Tk()
